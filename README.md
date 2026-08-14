@@ -9,9 +9,6 @@ Instead of feeling like a traditional travel website, the project is designed to
 
 ---
 
-<img width="1898" height="1080" alt="Знімок екрана 2026-08-14 111718" src="https://github.com/user-attachments/assets/8b8f101a-1a59-40d1-bca1-70104e9553fa" />
-
-
 ## ✨ Features
 
 * 🗺️ **5 Italian destinations** — Amalfi Coast, Venice, Tuscany, Cinque Terre and Lake Como
@@ -122,7 +119,7 @@ It was also a fun opportunity to experiment with **editorial layouts, visual sto
 
 ## 📸 Preview
 
-![Our Italy](./preview.png)
+![Our Italy](<img width="1898" height="1080" alt="Знімок екрана 2026-08-14 111718" src="https://github.com/user-attachments/assets/8b8f101a-1a59-40d1-bca1-70104e9553fa" />)
 
 ---
 
